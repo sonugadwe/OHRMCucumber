@@ -1,0 +1,53 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 10,
+        "name": "Validate login page Test",
+        "description": "",
+        "id": "orangehrm-login-page;validate-login-page-test;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "To launch the browser and navigate to url",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "User Enter details \"Admin\" and \"admin123\"",
+            "match": {},
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "click on login button",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "OrangeHRM Login Page",
+    "description": "",
+    "id": "orangehrm-login-page",
+    "keyword": "Feature",
+    "uri": "F:/FULL TIME/FinalProject/OHRMCucumber/src/test/resources/Features/TCA_Login.feature"
+  }
+]

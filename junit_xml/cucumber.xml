@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="OrangeHRM Login Page" name="Validate login page Test" time="0">
+<skipped><![CDATA[Given To launch the browser and navigate to url.............................undefined
+When User Enter details "Admin" and "admin123"..............................undefined
+Then click on login button..................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
